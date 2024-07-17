@@ -6,12 +6,12 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **GCP(Google Cloud Platform)**
 
-
 - email me at **nugrohorahmanto24@gmail.com**
+
+
+[![Portfolio](https://img.shields.io/badge/here%20my%20website-8A2BE2)](https://nugrohorahmanto.github.io/)
   
-  [![Portfolio](https://img.shields.io/badge/here%20my%20website-8A2BE2)](https://nugrohorahmanto.github.io/)
-  
-  [![LinkedIn](https://img.shields.io/badge/here%20my%20LinkedIn-8A2BE2)](https://www.linkedin.com/in/nugroho-rahmanto/)
+[![LinkedIn](https://img.shields.io/badge/here%20my%20LinkedIn-8A2BE2)](https://www.linkedin.com/in/nugroho-rahmanto/)
 
 
 
