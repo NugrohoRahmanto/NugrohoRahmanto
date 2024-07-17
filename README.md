@@ -1,14 +1,14 @@
 ### Hi there 👋
 # 💫 About Me:
-- 🔭 I’m currently working on **Laravel, ReactJs, Flutter.**
+- 🔭 I’m currently study on **Telkom University - Informatics**
 
-- 🌱 I’m currently learning **API integration with sql databases.**
+- 🌱 I’m currently learning **WEB and Mobile Developement**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **GCP(Google Cloud Platform)**
 
 - 📫 Feel free to reach me out **nugrohorahmanto24@gmail.com**
   
-- here is my personal website **[nugrohorahmanto.github.io](https://nugrohorahmanto.github.io/)**
+- [![Website](https://img.shields.io/badge/Website-YourWebsite-brightgreen)] here is my personal website **[nugrohorahmanto.github.io](https://nugrohorahmanto.github.io/)**
 
 
 
