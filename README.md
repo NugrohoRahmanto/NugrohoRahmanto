@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **WEB and Mobile Developement**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **GCP(Google Cloud Platform)**
-- [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 - email me at **nugrohorahmanto24@gmail.com** or here
 [![Email](https://img.shields.io/badge/email-%23CB3837.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nugrohorahmanto24@gmail.com)
