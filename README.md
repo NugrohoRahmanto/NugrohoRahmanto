@@ -11,7 +11,7 @@
 
 [![Portfolio](https://img.shields.io/badge/here%20my%20website-8A2BE2)](https://nugrohorahmanto.github.io/)
   
-[![LinkedIn](https://img.shields.io/badge/here%20my%20LinkedIn-8A2BE2)](https://www.linkedin.com/in/nugroho-rahmanto/)
+[![LinkedIn](https://img.shields.io/badge/here%20my%20LinkedIn-1c67bd)](https://www.linkedin.com/in/nugroho-rahmanto/)
 
 
 
