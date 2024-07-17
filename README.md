@@ -8,7 +8,7 @@
 
 - 📫 Feel free to reach me out **nugrohorahmanto24@gmail.com**
   
-- [![Website](https://img.shields.io/badge/Website-YourWebsite-brightgreen)] here is my personal website **[nugrohorahmanto.github.io](https://nugrohorahmanto.github.io/)**
+- ![Website](https://img.shields.io/badge/Website-YourWebsite-brightgreen) here is my personal website **[nugrohorahmanto.github.io](https://nugrohorahmanto.github.io/)**
 
 
 
