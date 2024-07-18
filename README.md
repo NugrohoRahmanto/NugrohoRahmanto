@@ -8,7 +8,7 @@
 
 - email me at **nugrohorahmanto24@gmail.com**
 
-
+------
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-grey?style=for-the-badge&logo=files)](https://nugrohorahmanto.github.io/)
   
 [![LinkedIn](https://img.shields.io/badge/My_LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/nugroho-rahmanto/)
